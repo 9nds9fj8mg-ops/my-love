@@ -78,7 +78,7 @@ export default function Letters() {
           className="text-center mt-10 fade-in-text"
         >
           <p className="text-xl font-serif text-rose-deep italic">
-            З любов'ю, назавжди
+            З любов&apos;ю, назавжди
           </p>
         </motion.div>
       </div>
